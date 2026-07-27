@@ -126,10 +126,10 @@ Therefore, selecting suitable hyperparameter values depends on the application. 
 
 ## Program Code
 
-![Program Code](outputs/code.png)
+![Program Code](EXPERIMENT1/CODE.png)
 
 ---
 
 ## Program Output
 
-![Program Output](outputs/output.png)
+![Program Output](EXPERIMENT1/OUTPUT.png)
