@@ -16,6 +16,7 @@ This repository contains all coding experiments, practical implementations, and 
 | Experiment No. | Title | Status |
 |---------------|-------|--------|
 | 01 | Study of LLM Hyperparameters (Temperature & Top-p) | ✅ Completed |
+| 02 | Robust system prompts to extract unstructured data into predefined JSON/YAML formats.| ✅ Completed |
 
 ---
 
