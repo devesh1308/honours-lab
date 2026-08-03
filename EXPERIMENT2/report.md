@@ -158,5 +158,5 @@ The generated output satisfied the predefined schema and passed Python-based val
 
 ## Program Output
 
-![Program Output](EXPERIMENT2/OUTPUT.png)
+![Program Output](OUTPUT.png)
 
